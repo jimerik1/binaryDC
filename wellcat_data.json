@@ -1,0 +1,862 @@
+{
+  "well_info": {
+    "version": "3.087",
+    "well_number": 1,
+    "well_name": "MANGO",
+    "design_number": 1,
+    "design_name": "MANGO",
+    "pipe_count": 57,
+    "grade_distribution": {
+      "C-75": 7,
+      "C-90": 11,
+      "H-40": 9,
+      "J-55": 9,
+      "L-80": 14,
+      "N-80": 7
+    }
+  },
+  "pipes": [
+    {
+      "grade": "C-75",
+      "offset": 872,
+      "OD": 0.9880000352859497,
+      "wall_thickness": 1.8309999704360962,
+      "ID": -2.6739999055862427,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-75",
+      "offset": 2118,
+      "OD": 1.8811249732971191,
+      "wall_thickness": 1.8638124465942383,
+      "ID": -1.8464999198913574,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-75",
+      "offset": 4076,
+      "OD": 1.9224998950958252,
+      "wall_thickness": 1.9107811450958252,
+      "ID": -1.8990623950958252,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-75",
+      "offset": 6034,
+      "OD": 1.9512499570846558,
+      "wall_thickness": 1.9395312070846558,
+      "ID": -1.9278124570846558,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-75",
+      "offset": 7903,
+      "OD": 1.9688749313354492,
+      "wall_thickness": 1.9571561813354492,
+      "ID": -1.9454374313354492,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-75",
+      "offset": 9149,
+      "OD": 1.9993749856948853,
+      "wall_thickness": 1.9876562356948853,
+      "ID": -1.9759374856948853,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-75",
+      "offset": 8615,
+      "OD": 2.005124807357788,
+      "wall_thickness": 1.9934061765670776,
+      "ID": -1.9816875457763672,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 75000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 1139,
+      "OD": 0.9880000352859497,
+      "wall_thickness": 1.8309999704360962,
+      "ID": -2.6739999055862427,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 1851,
+      "OD": 1.810499906539917,
+      "wall_thickness": 1.787062406539917,
+      "ID": -1.763624906539917,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 3631,
+      "OD": 1.8642499446868896,
+      "wall_thickness": 1.8408124446868896,
+      "ID": -1.8173749446868896,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 2385,
+      "OD": 1.8811249732971191,
+      "wall_thickness": 1.8638124465942383,
+      "ID": -1.8464999198913574,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 5589,
+      "OD": 1.9079999923706055,
+      "wall_thickness": 1.8962812423706055,
+      "ID": -1.8845624923706055,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 4343,
+      "OD": 1.9224998950958252,
+      "wall_thickness": 1.9107811450958252,
+      "ID": -1.8990623950958252,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 6301,
+      "OD": 1.9512499570846558,
+      "wall_thickness": 1.9395312070846558,
+      "ID": -1.9278124570846558,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 8348,
+      "OD": 1.9516249895095825,
+      "wall_thickness": 1.9399062395095825,
+      "ID": -1.9281874895095825,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 8170,
+      "OD": 1.9688749313354492,
+      "wall_thickness": 1.9571561813354492,
+      "ID": -1.9454374313354492,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 9416,
+      "OD": 1.9993749856948853,
+      "wall_thickness": 1.9876562356948853,
+      "ID": -1.9759374856948853,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "C-90",
+      "offset": 8882,
+      "OD": 2.005124807357788,
+      "wall_thickness": 1.9934061765670776,
+      "ID": -1.9816875457763672,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 90000,
+        "uts": 105000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 694,
+      "OD": 0.9880000352859497,
+      "wall_thickness": 1.8309999704360962,
+      "ID": -2.6739999055862427,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 1940,
+      "OD": 1.8811249732971191,
+      "wall_thickness": 1.8638124465942383,
+      "ID": -1.8464999198913574,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 3898,
+      "OD": 1.9224998950958252,
+      "wall_thickness": 1.9107811450958252,
+      "ID": -1.8990623950958252,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 3720,
+      "OD": 1.9262499809265137,
+      "wall_thickness": 1.9145312309265137,
+      "ID": -1.9028124809265137,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 5856,
+      "OD": 1.9512499570846558,
+      "wall_thickness": 1.9395312070846558,
+      "ID": -1.9278124570846558,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 5678,
+      "OD": 1.9562499523162842,
+      "wall_thickness": 1.9445312023162842,
+      "ID": -1.9328124523162842,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 7725,
+      "OD": 1.9688749313354492,
+      "wall_thickness": 1.9571561813354492,
+      "ID": -1.9454374313354492,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 8971,
+      "OD": 1.9993749856948853,
+      "wall_thickness": 1.9876562356948853,
+      "ID": -1.9759374856948853,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "H-40",
+      "offset": 8437,
+      "OD": 2.005124807357788,
+      "wall_thickness": 1.9934061765670776,
+      "ID": -1.9816875457763672,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 40000,
+        "uts": 60000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 783,
+      "OD": 0.9880000352859497,
+      "wall_thickness": 1.8309999704360962,
+      "ID": -2.6739999055862427,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 2029,
+      "OD": 1.8811249732971191,
+      "wall_thickness": 1.8638124465942383,
+      "ID": -1.8464999198913574,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 3987,
+      "OD": 1.9224998950958252,
+      "wall_thickness": 1.9107811450958252,
+      "ID": -1.8990623950958252,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 3809,
+      "OD": 1.9262499809265137,
+      "wall_thickness": 1.9145312309265137,
+      "ID": -1.9028124809265137,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 5945,
+      "OD": 1.9512499570846558,
+      "wall_thickness": 1.9395312070846558,
+      "ID": -1.9278124570846558,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 5767,
+      "OD": 1.9562499523162842,
+      "wall_thickness": 1.9445312023162842,
+      "ID": -1.9328124523162842,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 7814,
+      "OD": 1.9688749313354492,
+      "wall_thickness": 1.9571561813354492,
+      "ID": -1.9454374313354492,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 9060,
+      "OD": 1.9993749856948853,
+      "wall_thickness": 1.9876562356948853,
+      "ID": -1.9759374856948853,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "J-55",
+      "offset": 8526,
+      "OD": 2.005124807357788,
+      "wall_thickness": 1.9934061765670776,
+      "ID": -1.9816875457763672,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 55000,
+        "uts": 75000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 961,
+      "OD": 0.9880000352859497,
+      "wall_thickness": 1.8309999704360962,
+      "ID": -2.6739999055862427,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 1762,
+      "OD": 1.810499906539917,
+      "wall_thickness": 1.787062406539917,
+      "ID": -1.763624906539917,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 3542,
+      "OD": 1.8642499446868896,
+      "wall_thickness": 1.8408124446868896,
+      "ID": -1.8173749446868896,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 2296,
+      "OD": 1.8811249732971191,
+      "wall_thickness": 1.8638124465942383,
+      "ID": -1.8464999198913574,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 5500,
+      "OD": 1.9079999923706055,
+      "wall_thickness": 1.8962812423706055,
+      "ID": -1.8845624923706055,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 7636,
+      "OD": 1.9124999046325684,
+      "wall_thickness": 1.9007811546325684,
+      "ID": -1.8890624046325684,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 4165,
+      "OD": 1.9224998950958252,
+      "wall_thickness": 1.9107811450958252,
+      "ID": -1.8990623950958252,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 7547,
+      "OD": 1.9249999523162842,
+      "wall_thickness": 1.9132812023162842,
+      "ID": -1.9015624523162842,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 7458,
+      "OD": 1.9375,
+      "wall_thickness": 1.92578125,
+      "ID": -1.9140625,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 6123,
+      "OD": 1.9512499570846558,
+      "wall_thickness": 1.9395312070846558,
+      "ID": -1.9278124570846558,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 8259,
+      "OD": 1.9516249895095825,
+      "wall_thickness": 1.9399062395095825,
+      "ID": -1.9281874895095825,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 8081,
+      "OD": 1.9688749313354492,
+      "wall_thickness": 1.9571561813354492,
+      "ID": -1.9454374313354492,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 9327,
+      "OD": 1.9993749856948853,
+      "wall_thickness": 1.9876562356948853,
+      "ID": -1.9759374856948853,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "L-80",
+      "offset": 8793,
+      "OD": 2.005124807357788,
+      "wall_thickness": 1.9934061765670776,
+      "ID": -1.9816875457763672,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 95000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 1050,
+      "OD": 0.9880000352859497,
+      "wall_thickness": 1.8309999704360962,
+      "ID": -2.6739999055862427,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 2207,
+      "OD": 1.8811249732971191,
+      "wall_thickness": 1.8638124465942383,
+      "ID": -1.8464999198913574,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 4254,
+      "OD": 1.9224998950958252,
+      "wall_thickness": 1.9107811450958252,
+      "ID": -1.8990623950958252,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 6212,
+      "OD": 1.9512499570846558,
+      "wall_thickness": 1.9395312070846558,
+      "ID": -1.9278124570846558,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 7992,
+      "OD": 1.9688749313354492,
+      "wall_thickness": 1.9571561813354492,
+      "ID": -1.9454374313354492,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 9238,
+      "OD": 1.9993749856948853,
+      "wall_thickness": 1.9876562356948853,
+      "ID": -1.9759374856948853,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    },
+    {
+      "grade": "N-80",
+      "offset": 8704,
+      "OD": 2.005124807357788,
+      "wall_thickness": 1.9934061765670776,
+      "ID": -1.9816875457763672,
+      "burst_rating": 87.5,
+      "grade_properties": {
+        "yield_strength": 80000,
+        "uts": 100000,
+        "young_modulus": 30000000,
+        "poisson_ratio": 0.3
+      }
+    }
+  ],
+  "grades": {
+    "H-40": {
+      "yield_strength": 40000,
+      "uts": 60000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    },
+    "J-55": {
+      "yield_strength": 55000,
+      "uts": 75000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    },
+    "C-75": {
+      "yield_strength": 75000,
+      "uts": 95000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    },
+    "L-80": {
+      "yield_strength": 80000,
+      "uts": 95000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    },
+    "N-80": {
+      "yield_strength": 80000,
+      "uts": 100000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    },
+    "C-90": {
+      "yield_strength": 90000,
+      "uts": 105000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    },
+    "P-105": {
+      "yield_strength": 105000,
+      "uts": 120000,
+      "young_modulus": 30000000,
+      "poisson_ratio": 0.3
+    }
+  }
+}

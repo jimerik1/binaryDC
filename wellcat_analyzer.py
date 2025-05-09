@@ -94,3 +94,23 @@ def reverse_engineer_wellcat_format(filepath):
     
     # Return found string list for further analysis
     return strings
+
+
+if __name__ == "__main__":
+    import os
+    try:
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        contents_file = os.path.join(current_dir, "file.txt_streams", "Contents")
+        
+        print(f"Looking for file at: {contents_file}")
+        if os.path.exists(contents_file):
+            print("File found! Starting analysis...")
+            reverse_engineer_wellcat_format(contents_file)
+        else:
+            print(f"File {contents_file} not found.")
+            print(f"Current directory: {current_dir}")
+            print(f"Available files: {os.listdir('file.txt_streams')}")
+    except Exception as e:
+        print(f"Error occurred: {e}")
+        import traceback
+        traceback.print_exc()
